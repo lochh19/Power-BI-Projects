@@ -50,12 +50,13 @@ and transactions.market_code="Mark001";`
 
 ## Data Model 
 
-![Screenshot (38)](https://github.com/lochh19/Power-BI-Project/assets/163352505/95ee10db-1a19-4bc3-8ffe-3042f5890617)
+![sales Insights DataModel](https://github.com/lochh19/Power-BI-Projects/assets/163352505/99cc9d4a-9522-4324-b550-62c7084eb1f4)
 
 
 ## Dashboard 
 
-![Screenshot (40)](https://github.com/lochh19/Power-BI-Project/assets/163352505/dda08bfc-919a-48cb-b2ca-51b56ab76fa7)
+![Sales Insights](https://github.com/lochh19/Power-BI-Projects/assets/163352505/abacd6a2-157e-4a24-a763-ecc663fa1342)
+
 
 
 
